@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I'm Joshua Baskar, an aspiring full-stack developer focused on building responsive, user-friendly web applications using HTML, CSS, JavaScript, and modern development tools. I enjoy creating practical projects like educational platforms, UI-based apps, and full-stack web systems while improving my skills in Java, DSA, and backend development. 🚀
+**Joshua Baskar** — I code because it’s fun, learn because I’m curious, and build because apparently having ideas wasn’t enough. ☕
 
 # 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
