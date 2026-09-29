@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
 # 📊 GitHub Stats:
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jbmsacps-stack%20&theme=dark&timezone=IST&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+![](https://github-readme-stats.shion.dev/api?username=jbmsacps-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### ✍️ Quote:
 > **“Perhaps humans are built for loneliness. We fill the silence with productivity, pushing forward even when we aren’t loved, respected, or understood. We don’t escape loneliness—we simply learn to live with it, or forget that it’s there.”**
