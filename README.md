@@ -26,4 +26,4 @@
 ### ✍️ Quote:
 > **“Perhaps humans are built for loneliness. We fill the silence with productivity, pushing forward even when we aren’t loved, respected, or understood. We don’t escape loneliness—we simply learn to live with it, or forget that it’s there.”**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and dw I know this link is in here-->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) and by me ofc-->
